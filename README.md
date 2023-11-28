@@ -1,2 +1,2 @@
-# M-M-2-Queue-
-M/M/2 Queue Markov Chain Simulation
+# M-M-2-Queue-Markov
+M/M/2 Queue Markov Simulation
